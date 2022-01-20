@@ -47,7 +47,7 @@ hr {
     height: 0px;
     border-width: 6px;
     width: 10%;
-    border-color: rgba(186, 230, 231, 0.582);
+    border-color: rgba(127, 185, 187, 0.582);
 }
 
 .birds1 {
@@ -137,6 +137,10 @@ hr {
     width: 25%;
     float: right;
     margin-left: 30px;
+}
+
+.li{
+    font-size: 1rem;
 }
 
 /* .code-wrap
